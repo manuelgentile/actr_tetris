@@ -10,7 +10,7 @@ Mental rotation is an essential spatial reasoning skill in human cognition and h
 # How to run the code
 
 The first step is to download the source code version of ACT-R from the website http://act-r.psy.cmu.edu/ .
-Then a folder 'models/mental' should be create in the root of the unzipped folder and all the code should be copied inside.
+Then a folder *models/mental* should be create in the root of the unzipped folder and all the code should be copied inside.
 To run and load ACT-R:
 
 ``` 
@@ -24,7 +24,7 @@ Then, run this line of code in the ACT-R terminal to load the model.
 (actr-load "ACT-R:models;mental;mental-jigsaw.lisp")
 ```
 
-The 'runsim' function allows the user to run the model on the provided data.
+The *runsim* function allows the user to run the model on the provided data.
 
 ``` lisp
 (runsim 1 2 4 4)
