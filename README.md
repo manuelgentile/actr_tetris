@@ -1,4 +1,4 @@
-# The role of mental rotation in TetrisTM gameplay: an ACT-R computational cognitive model
+# The role of mental rotation in Tetris<sup>TM</sup> gameplay: an ACT-R computational cognitive model
 
 This repo contains the ACT-R model described in the the paper "The role of mental rotation in Tetris<sup>TM</sup> gameplay: an ACT-R computational cognitive model".
 
