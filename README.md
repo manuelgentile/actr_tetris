@@ -30,7 +30,7 @@ The 'runsim' function allows the user to run the model on the provided data.
 (runsim 1 2 4 4)
 ```
 
-#Acknowledgement
+# Acknowledgement
 
 The model uses the spatial-imagery functions provided by David Peebles in the imagery-functions.lisp file (to a complete description see 
 https://github.com/djpeebles/act-r-mental-rotation-models)
