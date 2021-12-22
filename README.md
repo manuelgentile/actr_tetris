@@ -18,7 +18,7 @@ cd actr7.x
 rlwrap sbcl --load load-act-r.lisp 
 ``` 
 
-Then the model run this line of code in the ACT-R terminal. 
+Then, run this line of code in the ACT-R terminal to load the model. 
 
 ``` lisp
 (actr-load "ACT-R:models;mental;mental-jigsaw.lisp")
